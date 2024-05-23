@@ -1,5 +1,5 @@
 <!--Banner-->
-![Kiran1689 Banner Image](https://github.com/Kiran1689/kiran1689/blob/main/banner.png)
+
 
 <!--Night Owl image-->
 <div>
@@ -7,15 +7,16 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Yean Pierrie ! 
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I am a systems engineering student, and a platzi student focused on being a developer with Java learning and I currently have knowledge of Html, CSS and JavaScript.. </p>
 
-- ✨ Student of life :)
+- ✨ Student of Systems Engineer
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- I am developing knowledge in Java and I want to be a developer but focus on the DevOps profile.
 - 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
 - 💁‍♂️ Volunteer MOD at **Dev Community**.
 - ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
