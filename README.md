@@ -17,7 +17,7 @@
 - ✨ Student of Systems Engineer
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - I am developing knowledge in Java and I want to be a developer but focus on the DevOps profile.
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
+- 🏙 A lifetime insider and Mentor at [Exercism]().
 - 💁‍♂️ Volunteer MOD at **Dev Community**.
 - ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
 - ❤ Contributing to Open Source.
