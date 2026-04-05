@@ -10,7 +10,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a systems engineering student, and a platzi student focused on being a developer with Java learning and I currently have knowledge of Html, CSS and JavaScript .. </p>
+<p align="left">I am a systems engineering student, and a platzy student focused on being a developer with Java learning and I currently have knowledge of Html, CSS and JavaScript .. </p>
 
 - ✨ Student of Systems Engineer
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
