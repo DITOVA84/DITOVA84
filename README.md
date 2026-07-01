@@ -5,18 +5,17 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Yean Pierrie ! 
-*Digital Craftsman (Developer / Programmer)*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Mi Nombre es Yean Pierrie ! 
+*Automation Enthusiast (Junior Developer)*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a systems engineering student, and a platzy student focused on being a developer with Java learning and I currently have knowledge of Html, CSS and JavaScript .. </p>
+<p align="left">Soy estudiante de Ingenieria de sistemas, enfocado en convertirme en desarrollador especializado en automatización de procesos. Actualmente tengo conocimientos de Python y estoy aprendiendo web scraping, RPA y automatización con herramientas de oficina .. </p>
 
-- ✨ Student of Systems Engineer
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- I am developing knowledge in Java and I want to be a developer but focus on the DevOps profile.
-- 💁‍♂️ Volunteer MOD at **Dev Community**.
-- ❤ Contributing to Open Source.
+- ✨ Estudiante de Ingenieria de sistemas 
+- 🌱 Aprendiendo algo nuevo cada semana — documento mi progreso en automation-learning-log
+- 🤖 Construyendo scripts para eliminar tareas repetitivas y manuales
+- 🎯 Mi meta a corto plazo: dominar Python aplicado a automatización y RPA
 - 💻 Visit my [Portfolio](xxxx) for more details about me.
 <!--End Intro-->
 
@@ -25,9 +24,9 @@
 <br />
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h2 align="center">Lᴇɴɢᴜᴀᴊᴇs ʏ Hᴇʀʀᴀᴍɪᴇɴᴛᴀs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,nodejs,git,vscode,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,bash,git,github,vscode,linux&perline=10"  />
 </p>
 <br />
 
@@ -38,20 +37,15 @@
 
 <!--Contact Section--> 
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h2 align="center">🤝 Cᴏɴᴇ́ᴄᴛᴀᴛᴇ Cᴏɴᴍɪɢᴏ 🤝 </h2>
 <div align="center">
  <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
-<a href="Ditova8@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+<a href="ditova8@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=ditova8@gmail.com mail style="style="margin-bottom: 5px;" />
 </a>
-
-<a href="https://www.instagram.com" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
-</a>
-
 
 
 
