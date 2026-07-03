@@ -12,11 +12,14 @@
 <!--Start Intro-->               
 <p align="left">Soy estudiante de Ingenieria de sistemas, enfocado en convertirme en desarrollador especializado en automatización de procesos. Actualmente tengo conocimientos de Python y estoy aprendiendo web scraping, RPA y automatización con herramientas de oficina .. </p>
 
-- ✨ Estudiante de Ingenieria de sistemas 
-- 🌱 Aprendiendo algo nuevo cada semana — documento mi progreso en automation-learning-log
-- 🤖 Construyendo scripts para eliminar tareas repetitivas y manuales
-- 🎯 Mi meta a corto plazo: dominar Python aplicado a automatización y RPA
-- 💻 Visit my [Portfolio](xxxx) for more details about me.
+<ul>
+  <li>✨ Estudiante de Ingenieria de sistemas </li>
+  <li>🌱 Actualmente aprendiendo Python aplicado a automatización</li>
+  <li>🤖 Construyendo scripts para eliminar tareas repetitivas (archivos, Excel, web)</li>
+  <li>📖 Documentando mi progreso en <a href="#">automation-learning-log</a></li>
+  <li>💻 Practicando en <a href="#">automation-practice</a></li>
+  <li>📫 Contáctame: <a href="#">LinkedIn</a> · Ditova8@gmail.com</li>
+</ul>
 <!--End Intro-->
 
 
